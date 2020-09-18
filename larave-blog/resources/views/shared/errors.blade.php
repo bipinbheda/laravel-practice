@@ -1,0 +1,3 @@
+errors.blade.php
+
+{{ $some }}
